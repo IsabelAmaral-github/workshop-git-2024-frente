@@ -72,6 +72,7 @@ Markdown é uma forma de escrever arquivos texto seguindo regras que serão segu
 #### Listas de Tarefas
 
 ### Tabelas
+Para criar uma tabela, utilize '|' e '-'. Para delimitar o cabeçalho de cada coluna, utilize os '-' e, para delimitar
 
 
 Anotações
