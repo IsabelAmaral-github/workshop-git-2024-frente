@@ -120,7 +120,11 @@ Anotações
 
 Usem esse espaço para manter uma lista de anotações e dicas como comandos do Git, links do GitHub e exemplos de Markdown.
 
-1.
+Malu
+1. Sempre lembrar de mudar para onde fazer o *"pull request"* para evitar problemas!
+2. É possível associar um *merge pull request* para outra pessoa, só clicando em um botão lateral!
+3. Também clicar em *staged changes* no VSCode quando for commitar!
+4. Também é necessário se lembrar de dar **sync** e **pull** no VSCode após você ter feito mudanças (*merges*) na main através do site do GitHub!
 
 
 
