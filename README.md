@@ -72,7 +72,14 @@ Markdown é uma forma de escrever arquivos texto seguindo regras que serão segu
 #### Listas de Tarefas
 
 ### Tabelas
-Para criar uma tabela, utilize '|' e '-'. Para delimitar o cabeçalho de cada coluna, utilize os '-' e, para delimitar
+Para criar uma tabela, utilize '|' e '-'. Para delimitar o cabeçalho de cada coluna, utilize os '-' e, para delimitar as colunas, utilize os '|'.
+
+Exemplo:
+
+|Cabeçalho 1|Cabeçalho 2|
+|-----------|-----------|
+|Item 1.1|Item 1.2|
+|Item 2.1|Item 2.2|
 
 
 Anotações
